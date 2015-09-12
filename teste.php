@@ -1,3 +1,4 @@
-<?php echo "teste agora novo";
+<?php
 phpinfo();
+echo "Ola";
  ?>
